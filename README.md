@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0001-two-sum) |
+| [0724-find-pivot-index](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1672-richest-customer-wealth) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 ## Math
 |  |
