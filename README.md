@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0020-valid-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
