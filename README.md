@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0125-valid-palindrome) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
