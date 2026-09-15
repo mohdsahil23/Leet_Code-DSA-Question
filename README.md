@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
