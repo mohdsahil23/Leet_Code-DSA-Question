@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1672-richest-customer-wealth) |
