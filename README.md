@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
