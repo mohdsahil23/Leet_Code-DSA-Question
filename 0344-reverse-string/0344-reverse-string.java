@@ -4,9 +4,9 @@ class Solution {
         int st=0;
         int end=n-1;
         while(st<end){
-         int temp = s[st];
+         char temp = s[st];
         s[st] =s[end];
-         s[end]=(char) temp;
+         s[end]= temp;
          st++;
          end--;
 
