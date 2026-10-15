@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0283-move-zeroes](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
