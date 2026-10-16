@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0509-fibonacci-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
