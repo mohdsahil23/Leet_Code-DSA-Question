@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
