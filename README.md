@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mohdsahil23/Leet_Code-DSA-Question/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
